@@ -1,3 +1,7 @@
+// itu bakal mengaruhin project yang elu kelola men, pastinya sama tim
+// Kalo udah selesai nambahin baris kode di beberapa file project tinggal
+// lu up lagi nih caranya.
+// Pastiin lu udah save file yang lu udah rubah men
 <?php
     $author = array (
         // Nama Auditor
