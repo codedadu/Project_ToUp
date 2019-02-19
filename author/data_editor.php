@@ -1,3 +1,5 @@
+// Misal tim lu nambahin beberapa baris kode di file ini
+
 // itu bakal mengaruhin project yang elu kelola men, pastinya sama tim
 // Kalo udah selesai nambahin baris kode di beberapa file project tinggal
 // lu up lagi nih caranya.
