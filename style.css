@@ -1,0 +1,135 @@
+body{
+    margin-left: 40px; 
+    font-family: monospace;
+    margin-top: 20px;
+    line-height: 20px;
+}
+font.header {
+    font-size: 20px;
+}
+font.subtitle {
+    font-size: 10px;
+}
+p.tableinfo {
+    margin-top: 15px;
+}
+table.kompetensimp {
+    border-collapse: collapse;
+    border-spacing: 10px; 
+    /*margin-bottom: 15px;*/
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr{
+    background-color: #f2f2f2;
+}
+
+th {
+    background-color: #9b9a9a;
+    color: white;
+}
+td.centerpos {
+    text-align: center;
+    /*border-left: 1px solid #ddd;*/
+}
+td.upfortitle {
+    /*border-left: 1px solid #ddd;*/
+    vertical-align: top;
+}
+th, td {
+    /*border-bottom: 1px solid #ddd;*/
+    /*border-top: 1px solid #ddd;*/
+}
+
+td.leftbor {
+    /*border-left: 1px solid #ddd;*/
+}
+th.penilaian {
+    width: 250px;
+}
+#materi {
+    width: 250px;
+}
+#list {
+    text-align: center;
+}
+#informasi
+{
+    margin-top: 74px;
+    width: 680px;
+    left: 950px;
+    top: 0px;
+    color: rgb(26, 29, 235);
+    background-color: rgb(240, 240, 240);
+    z-index: 1;
+}
+#informasi
+{
+    position: absolute;
+    height: 170px;
+    font-size: 15px;
+}
+#data {
+    margin-left: 20px; 
+    color: rgb(0, 0, 0);
+}
+#informasi_penilaianrbs
+{
+    margin-top: 300px;
+    width: 680px;
+    left: 950px;
+    top: 0px;
+    color: rgb(26, 29, 235);
+    background-color: rgb(240, 240, 240);
+    z-index: 1;
+}
+#informasi_penilaianrbs
+{
+    position: absolute;
+    height: 228px;
+    font-size: 15px;
+}
+#data {
+    margin-left: 20px; 
+    margin-right: 15px; 
+    color: rgb(0, 0, 0);
+}
+#informasi_versi
+{
+    margin-top: 770px;
+    width: 680px;
+    left: 950px;
+    top: 0px;
+    color: rgb(26, 29, 235);
+    background-color: rgb(240, 240, 240);
+    z-index: 1;
+}
+#informasi_versi
+{
+    position: absolute;
+    height: 140px;
+    font-size: 15px;
+}
+#informasi_targetpembelajaran
+{
+    margin-top: 580px;
+    width: 680px;
+    left: 950px;
+    top: 0px;
+    color: rgb(26, 29, 235);
+    background-color: rgb(240, 240, 240);
+    z-index: 1;
+}
+#informasi_targetpembelajaran
+{
+    position: absolute;
+    height: 140px;
+    font-size: 15px;
+}
+table.borderhead {
+    background-color: blue;
+}
