@@ -1,4 +1,4 @@
-
+// Gw Tambahin dah ni Kode Dimari
 <?php
   //Variable Pemrograman Database Teori
   $databaseteori_pg_uas = 60;
