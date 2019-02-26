@@ -1,1 +1,2 @@
-Ini adalah tambahan file
+# This is project learn for GitHub
+- Everyting is OK
